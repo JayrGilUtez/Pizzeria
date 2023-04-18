@@ -3,7 +3,7 @@ package pizzeria;
 import java.util.Scanner;
 
 public class Empleado {
-
+//probando hacer cambios en gihub
     private String nombre;
     private boolean Inicio;//es para verificar que el empleado inicio sesion
 
