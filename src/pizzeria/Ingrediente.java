@@ -3,6 +3,7 @@ package pizzeria;
 public class Ingrediente {
     protected String[] ingredientes = new String[]{"Pepperoni", "Pinia", "Champiniones", "Morron", "Jalapenio", "Cebolla", "Jamon", "Tocino", "Salchicha"};
    // protected String[] ingredienteEnPizza;
+
     protected boolean pepperoni;
     protected boolean pinia;
     protected boolean champiniones;
