@@ -35,9 +35,7 @@ public class Ingrediente {
     }
 
 
-    public String[] getIngredientes() {
-        return ingredientes;
-    }
+    public String[] getIngredientes() { return ingredientes; }
 
     public void setIngredientes(String[] ingredientes) {
         this.ingredientes = ingredientes;
